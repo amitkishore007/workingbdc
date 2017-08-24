@@ -1,0 +1,9 @@
+Building BlackDiamondCoin
+
+See doc/readme-qt.rst for instructions on building BlackDiamondCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BlackDiamondCoin.
+
+See doc/build-*.txt for instructions on building BlackDiamondCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BlackDiamondCoin.
